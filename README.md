@@ -35,5 +35,5 @@ Currently based in **Gothenburg, Sweden** — seeking Summer 2026 IT internship.
 
 Screenshot of the IT System Monitor running on Windows.
 
-![Monitor Output](monitor-output.png)
+![Monitor Output](1_it_monitor/monitor-output.png)
 *All projects run with Python 3.8+ and minimal or no external dependencies.*
