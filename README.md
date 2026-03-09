@@ -49,5 +49,8 @@ Screenshot of the IT System Monitor running on Windows.
 ```bash
 pip install psutil
 python monitor.py
+,,
+
+
 
 *All projects run with Python 3.8+ and minimal or no external dependencies.*
