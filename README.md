@@ -43,4 +43,11 @@ Screenshot of the IT System Monitor running on Windows.
 ![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
 ![Linux](https://img.shields.io/badge/OS-Linux-green)
 ![IT Support](https://img.shields.io/badge/Role-IT%20Support-orange)
+
+### Run the Project
+
+```bash
+pip install psutil
+python monitor.py
+
 *All projects run with Python 3.8+ and minimal or no external dependencies.*
