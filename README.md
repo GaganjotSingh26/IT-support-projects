@@ -45,6 +45,7 @@ Screenshot of the IT System Monitor running on Windows.
 ![IT Support](https://img.shields.io/badge/Role-IT%20Support-orange)
 
 ### Run the Project
+```bash
 pip install psutil
 python monitor.py
 
