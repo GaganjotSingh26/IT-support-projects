@@ -31,5 +31,9 @@ Experienced with **Microsoft Azure**, **Active Directory**, **Jira Service Desk*
 Currently based in **Gothenburg, Sweden** — seeking Summer 2026 IT internship.
 
 ---
+## System Monitor Output
 
+Screenshot of the IT System Monitor running on Windows.
+
+![Monitor Output](output Screenshot.png)
 *All projects run with Python 3.8+ and minimal or no external dependencies.*
