@@ -36,4 +36,11 @@ Currently based in **Gothenburg, Sweden** — seeking Summer 2026 IT internship.
 Screenshot of the IT System Monitor running on Windows.
 
 ![Monitor Output](1_it_monitor/monitor-output.png)
+
+### Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
+![Linux](https://img.shields.io/badge/OS-Linux-green)
+![IT Support](https://img.shields.io/badge/Role-IT%20Support-orange)
 *All projects run with Python 3.8+ and minimal or no external dependencies.*
